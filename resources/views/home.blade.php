@@ -26,9 +26,8 @@
                     A Software Engineer.
                 </h1>
                 <p>
-                    I'm a Web Developer, I love to create beautiful and functional websites.
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, libero?
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque blanditiis sed aut!
+                  I am passionate about technology ,  can develop both native and hybrid desktop and mobile applications. 
+                  can work well with unix based systems including system administration , competent in computer networking and distributed systems
                 </p>
                 <div class="btn-con">
                     <a href="" class="main-btn">
