@@ -1,43 +1,4 @@
 const Contact = () => {
-    let sendEmailBtn = document.getElementById("send-email");
-        sendEmailBtn.addEventListener("click", sendEmail);
-        function sendEmail(event) {
-        event.preventDefault();
-        let name = document.getElementById("name").value;
-        let to = document.getElementById("to").value;
-        let subject = document.getElementById("subject").value;
-        let body = document.getElementById("body").value;
-
-        let data = {
-            name: name,
-            to: to,
-            subject: subject,
-            body: body
-        };
-        // here you can use any email API library to send the email
-        // for example using Fetch API
-        fetch("https://your-email-api.com/send", {
-            method: "POST",
-            body: JSON.stringify(data),
-            headers: {
-            "Content-Type": "application/json"
-            }
-        })
-            .then(response => response.json())
-            .then(data => {
-            if (data.success) {
-                alert("Email sent successfully!");
-            } else {
-                alert("Error sending email. Please try again.");
-            }
-            })
-            .catch(error => {
-            console.error("Error:", error);
-            alert("Error sending email. Please try again.");
-            });
-        }
-
-
     return ( 
     <div>
          <section class="container contact" id="contact">
