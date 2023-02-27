@@ -11,7 +11,7 @@ const Portfolio = () => {
             <div class="portfolios">
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port1.jpg" alt=""/>
+                        <img src="./img/Logo1.png" alt=""/>
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -30,7 +30,7 @@ const Portfolio = () => {
                 </div>
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port2.jpg" alt=""/>
+                        <img src="img/Logo1.png" alt=""/>
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -49,7 +49,7 @@ const Portfolio = () => {
                 </div>
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port3.jpg" alt=""/>
+                        <img src="./img/Logo1.png" alt=""/>
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -68,7 +68,7 @@ const Portfolio = () => {
                 </div>
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port4.jpg" alt=""/>
+                        <img src="img/Logo1.png" alt=""/>
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -87,7 +87,7 @@ const Portfolio = () => {
                 </div>
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port5.jpg" alt=""/>
+                        <img src="img/Logo1.png" alt=""/>
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -106,7 +106,7 @@ const Portfolio = () => {
                 </div>
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="img/port2.jpg" alt=""/>
+                        <img src="img/Logo1.png" alt=""/>
                     </div>
                     <div class="hover-items">
                         <h3>Project Source</h3>
@@ -122,26 +122,7 @@ const Portfolio = () => {
                             </a>
                         </div>
                     </div>
-                </div>
-                <div class="portfolio-item">
-                    <div class="image">
-                        <img src="img/port7.jpg" alt=""/>
-                    </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
-                        <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+                </div>                
             </div>
         </section>
 

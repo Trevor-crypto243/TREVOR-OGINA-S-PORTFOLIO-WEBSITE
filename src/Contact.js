@@ -64,7 +64,7 @@ const Contact = () => {
                                 <a href="https://www.facebook.com/trevor.oti.5" target="_blank">
                                     <i class="fab fa-facebook-f"></i>
                                 </a>
-                                <a href="https://www.instagram.com/otitrevor/" target="_blank">
+                                <a href="https://www.instagram.com/trevor_augeaner/" target="_blank">
                                     <i class="fab fa-instagram"></i>
                                 </a>
                                 <a href="https://github.com/Trevor-crypto243" target="_blank">

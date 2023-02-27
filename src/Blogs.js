@@ -8,62 +8,24 @@ const Blogs = () => {
                 </div>
                 <div class="blogs">
                     <div class="blog">
-                        <img src="img/port6.jpg" alt=""/>
+                        <img src="img/port.jpg" alt=""/>
                         <div class="blog-text">
                             <h4>
                                 How to Create Your Own Website
                             </h4>
                             <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                                Doloribus natus voluptas, eos obcaecati recusandae amet?
+                            Choose a domain, select a website builder or CMS, create content, and publish your website
                             </p>
                         </div>
                     </div>
                     <div class="blog">
-                        <img src="img/blog1.jpg" alt=""/>
+                        <img src="img/port2.jpg" alt=""/>
                         <div class="blog-text">
                             <h4>
-                                How to Become an Expert in Web Design
+                                Become an Expert in networking
                             </h4>
                             <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                                Doloribus natus voluptas, eos obcaecati recusandae amet?
-                            </p>
-                        </div>
-                    </div>
-                    <div class="blog">
-                        <img src="img/blog2.jpg" alt=""/>
-                        <div class="blog-text">
-                            <h4>
-                                Become a Web Designer in 10 Days
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                                Doloribus natus voluptas, eos obcaecati recusandae amet?
-                            </p>
-                        </div>
-                    </div>
-                    <div class="blog">
-                        <img src="img/blog3.jpg" alt=""/>
-                        <div class="blog-text">
-                            <h4>
-                                Debbuging made easy with Web Inspector
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                                Doloribus natus voluptas, eos obcaecati recusandae amet?
-                            </p>
-                        </div>
-                    </div>
-                    <div class="blog">
-                        <img src="img/port1.jpg" alt=""/>
-                        <div class="blog-text">
-                            <h4>
-                                Get started with Web Design and UI Design
-                            </h4>
-                            <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                                Doloribus natus voluptas, eos obcaecati recusandae amet?
+                            Learn networking concepts, protocols, and tools, practice with labs, and keep up with industry developments.
                             </p>
                         </div>
                     </div>
@@ -71,11 +33,43 @@ const Blogs = () => {
                         <img src="img/port3.jpg" alt=""/>
                         <div class="blog-text">
                             <h4>
-                                This is what you need to know about Web Design
+                                Become a Mobile application developer  in 10 Days
                             </h4>
                             <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-                                Doloribus natus voluptas, eos obcaecati recusandae amet?
+                            It's not possible to become a proficient mobile developer in 10 days, it requires dedication and practice over a longer period.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/port4.jpg" alt=""/>
+                        <div class="blog-text">
+                            <h4>
+                                Cloud computing
+                            </h4>
+                            <p>
+                            Internet connection, knowledge of networking, virtualization, and cloud computing services and deployment models
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/port5.jpg" alt=""/>
+                        <div class="blog-text">
+                            <h4>
+                                All you need to know about data science
+                            </h4>
+                            <p>
+                            Data science involves extracting insights and knowledge from data through statistical and machine learning techniques.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="blog">
+                        <img src="img/port6.jpg" alt=""/>
+                        <div class="blog-text">
+                            <h4>
+                                Getting started with embedded systems
+                            </h4>
+                            <p>
+                            Learn C/C++, microcontroller architecture, and interfacing, choose a development board, and experiment with projects.
                             </p>
                         </div>
                     </div>
