@@ -6,7 +6,7 @@ const Home = () => {
                 <div class="left-header">
                     <div class="h-shape"></div>
                     <div class="image">
-                        <img src="img/1.jpg" alt=""/>
+                        <img src="img/africas2.jpg" alt=""/>
                     </div>
                 </div>
                 <div class="right-header">
