@@ -11,20 +11,15 @@ const Portfolio = () => {
             <div class="portfolios">
                 <div class="portfolio-item">
                     <div class="image">
-                        <img src="./img/Logo1.png" alt=""/>
+                        <img src="./img/cashmania.png" alt="cashmania" style={{opacity:".5"}}/>
                     </div>
-                    <div class="hover-items">
-                        <h3>Project Source</h3>
+                    <div className="hover-items p-3">
+                        <h3 style={{color:'black'}}><strong>Cash Mania</strong></h3>
+                        <p className="text-center p-2">Fast Games Website, smartsoft gaming</p>
                         <div class="icons">
-                            <a href="#" class="icon">
-                                <i class="fab fa-github"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-behance"></i>
-                            </a>
-                            <a href="#" class="icon">
-                                <i class="fab fa-youtube"></i>
-                            </a>
+                            <a href="https://cashmania.co.ke/" target="blank" style={{color:"blue", marginTop:'.5cm'}}>
+                                Click to View Project
+                            </a>                          
                         </div>
                     </div>
                 </div>
