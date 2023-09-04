@@ -15,8 +15,10 @@ const Home = () => {
                         A Software Engineer.
                     </h1>
                     <p>
-                    I am passionate about technology ,  can develop both native and hybrid desktop and mobile applications. 
-                    can work well with unix based systems including system administration , competent in computer networking and distributed systems
+                    With my expertise in software engineering, I solve complex challenges for enterprises using JavaScript, Python, PHP, and Kotlin. My skills extend beyond coding, encompassing systems integration and interconnections to ensure seamless and efficient operations.
+
+I am eager to contribute my knowledge, skills, and passion to drive innovation and success within your organization.
+
                     </p>
                     <div class="btn-con">
                         <a href="" class="main-btn">
