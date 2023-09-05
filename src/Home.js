@@ -15,7 +15,7 @@ const Home = () => {
                         A Software Engineer.
                     </h1>
                     <p>
-                    With my expertise in software engineering, I solve complex challenges for enterprises using JavaScript, Python, PHP, and Kotlin. My skills extend beyond coding, encompassing systems integration and interconnections to ensure seamless and efficient operations.
+                I solve complex challenges for enterprises using JavaScript, Python, PHP, and Kotlin. My skills extend beyond coding, encompassing systems integration and interconnections to ensure seamless and efficient operations.
 
 I am eager to contribute my knowledge, skills, and passion to drive innovation and success within your organization.
 
