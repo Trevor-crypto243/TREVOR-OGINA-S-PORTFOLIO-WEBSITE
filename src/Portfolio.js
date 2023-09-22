@@ -9,6 +9,20 @@ const Portfolio = () => {
                 Here is some of my work that I've done in various programming languages.
             </p>
             <div class="portfolios">
+            <div class="portfolio-item">
+                    <div class="image">
+                        <img src="./img/beyondvas.png" alt="cashmania" style={{opacity:".5"}}/>
+                    </div>
+                    <div className="hover-items p-3">
+                        <h3 style={{color:'black'}}><strong>Beyond Vas</strong></h3>
+                        <p className="text-center p-2">PRSP website, SMS,SHORTCODES, USSD</p>
+                        <div class="icons">
+                            <a href="https://beyondvas.co/" target="blank" style={{color:"blue", marginTop:'.5cm'}}>
+                                Click to View Project
+                            </a>                          
+                        </div>
+                    </div>
+                </div>
                 <div class="portfolio-item">
                     <div class="image">
                         <img src="./img/cashmania.png" alt="cashmania" style={{opacity:".5"}}/>
@@ -23,6 +37,7 @@ const Portfolio = () => {
                         </div>
                     </div>
                 </div>
+            
                 <div class="portfolio-item">
                     <div class="image">
                         <img src="img/Logo1.png" alt=""/>
