@@ -134,12 +134,12 @@ const Contact = () => {
                                 <textarea id="body" cols="15" name="message"  rows="8" placeholder="Message Here..."></textarea>
                             </div>
                             <div class="submit-btn">
-                                <button type="submit"  class=" main-btn w-100">
+                                <a type="submit"  class=" main-btn w-100">
                                 <span class="btn-text text-dark">Send Email</span>
 
-                                <span class="btn-icon"><i class="fas fa-download"></i></span>
+                                <span class="btn-icon"><i class="fas fa-upload"></i></span>
                                 
-                                </button>
+                                </a>
                                 {/* <a href="#" class="main-btn">
                                         <span class="btn-text">Download CV</span>
                                         <span class="btn-icon"><i class="fas fa-download"></i></span>
