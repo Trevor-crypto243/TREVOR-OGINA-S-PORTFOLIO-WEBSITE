@@ -136,14 +136,8 @@ const Contact = () => {
                             <div class="submit-btn">
                                 <a type="submit"  class=" main-btn w-100">
                                 <span class="btn-text text-dark">Send Email</span>
-
-                                <span class="btn-icon"><i class="fas fa-upload"></i></span>
-                                
+                                <span class="btn-icon"><i class="fas fa-upload"></i></span>                                
                                 </a>
-                                {/* <a href="#" class="main-btn">
-                                        <span class="btn-text">Download CV</span>
-                                        <span class="btn-icon"><i class="fas fa-download"></i></span>
-                                    </a> */}
                             </div>
                         </form>                        
                         </div>
